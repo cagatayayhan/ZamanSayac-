@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\bin\Debug\ZamanSayacı.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\bin\Debug\ZamanSayacı.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\bin\Debug\ZamanSayacı.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\ZamanSayacı\ZamanSayacı\obj\Debug\ZamanSayacı.pdb
